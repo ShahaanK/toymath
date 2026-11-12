@@ -15,3 +15,4 @@ Made by: Shahaan Khan - Cool Guy I think
    :maxdepth: 2
    :caption: Contents:
 
+   api
